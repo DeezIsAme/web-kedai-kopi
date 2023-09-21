@@ -278,6 +278,7 @@ body {
 .about .row .about-img img {
   width: 95%;
   -webkit-mask-image: url("../img/menu/coffee-cup.svg");
+  -webkit-mask-size: 120%;
 }
 
 .about .row.content {
